@@ -14,5 +14,9 @@
   "bugs": {
     "url": "https://github.com/Zer0-Vector/mtg-deck-analyzer-addon/issues"
   },
-  "homepage": "https://github.com/Zer0-Vector/mtg-deck-analyzer-addon#readme"
+  "homepage": "https://github.com/Zer0-Vector/mtg-deck-analyzer-addon#readme",
+  "devDependencies": {
+    "@google/clasp": "^2.4.2",
+    "jest": "^29.7.0"
+  }
 }
